@@ -1,8 +1,4 @@
-Vsevolod Novgorodtsev
+Academic Java project.
 
-IDE: VSCode 1.83.1
-Extensions: 
-    - Extension Pack for Java v0.25.14
-    - Code Runner v0.12.1
+Console app that allows athletes to enter their symptoms/health issues after the game and sport medical practitioners to understand a risk of a potential concussion for each athlete based on the symptoms.
 
-Java: JDK 21
